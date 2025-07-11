@@ -33,21 +33,21 @@ I’m a developer who believes clean code and good design should go hand-in-hand
 
 🔹 **[Movie Recommendation App](https://movierecc.netlify.app/)**  
 *A movie recommendation app where users can search (3mtt capestone project) *  
-`React · Mongo-db · PWA · Node.js`
+`React · Mongo-db · PWA · Node.js . Express.js .`
 
 🔹 **[Agro Flow](https://benmarcel.github.io/agro_flow_project/)**  
 *A a sorage booking and logistic plartform for farmers*  
-`React · MongoDB · Paystack · Express.js`
+`Html · Tailwind css ·  javaScript `
 
 🔹 **[Gozie Telemed]()**  
 *24/7 Telemedicine platform for African communities (Practice project)*  
-``
+`Html . Css . Node.js .Express.js. MySql `
 
 ---
 
 ### 🧩 Dev Knight Logs
 
-- 🎥 Sharing dev stories & code content as **@TheDevKnight** on [Twitter (X)]([https://twitter.com/thedevknight](https://x.com/TheDev_Knight?t=plgKzWGsITg8SMXtMxjvjQ&s=09))
+- 🎥 Sharing dev stories & code content as **@TheDevKnight** on [Twitter (X)](https://x.com/TheDev_Knight?t=plgKzWGsITg8SMXtMxjvjQ&s=09)
 - 🧠 Documenting my journey with humor, dark-mode builds & daily tips
 
 ---
@@ -55,9 +55,9 @@ I’m a developer who believes clean code and good design should go hand-in-hand
 ### 📫 Let's Connect
 
 - 🌐 [Portfolio](#) 
-- 💼 [LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/chima-ben?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-- 📩 [thedevknight@pm.me ](#)  
-- 💬 DM-friendly on [X (Twitter)]([https://twitter.com/thedevknight](https://x.com/TheDev_Knight?t=plgKzWGsITg8SMXtMxjvjQ&s=09))
+- 💼 [LinkedIn](https://www.linkedin.com/in/chima-ben?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📱💬 [WhatsApp](https://wa.me/2348023678500)  
+- 💬 DM-friendly on [X (Twitter)](https://x.com/TheDev_Knight?t=plgKzWGsITg8SMXtMxjvjQ&s=09)
 
 ---
 
