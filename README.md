@@ -31,11 +31,11 @@ I’m a developer who believes clean code and good design should go hand-in-hand
 
 ### 🚀 Featured Projects
 
-🔹 **[Movie Recommendation App]()**  
+🔹 **[Movie Recommendation App](https://movierecc.netlify.app/)**  
 *A movie recommendation app where users can search (3mtt capestone project) *  
 `React · Mongo-db · PWA · Node.js`
 
-🔹 **[Agro Flow]([https://movierecc.netlify.app/](https://benmarcel.github.io/agro_flow_project/))**  
+🔹 **[Agro Flow](https://benmarcel.github.io/agro_flow_project/)**  
 *A a sorage booking and logistic plartform for farmers*  
 `React · MongoDB · Paystack · Express.js`
 
