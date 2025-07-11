@@ -39,7 +39,7 @@ I’m a developer who believes clean code and good design should go hand-in-hand
 *A a sorage booking and logistic plartform for farmers*  
 `Html · Tailwind css ·  javaScript `
 
-🔹 **[Gozie Telemed]()**  
+🔹 **[Gozie Telemed](https://github.com/benmarcel/Plp-final_project.git)**  
 *24/7 Telemedicine platform for African communities (Practice project)*  
 `Html . Css . Node.js .Express.js. MySql `
 
