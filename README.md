@@ -15,7 +15,7 @@
 I’m a developer who believes clean code and good design should go hand-in-hand. I specialize in building scalable applications, automating workflows, and turning business ideas into powerful digital products.
 
 - 💻 JavaScript | React | Node.js | MongoDB | SQL | Figma
-- ✨ Currently building: [Farmers Hub](#) — Farm product price tracker & support platform
+- ✨ Currently building: [Farmers Hub](https://github.com/benmarcel/Farmers-Hub.git) — Farm product price tracker & support platform
 - 🎯 Learning: Ux/Ui design, with Figma 
 
 ---
