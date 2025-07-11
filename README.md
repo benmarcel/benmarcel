@@ -12,7 +12,7 @@
 
 ### 💼 About Me
 
-I’m a developer who believes clean code and good design should go hand-in-hand. I specialize in building scalable applications, automating workflows, and turning business ideas into powerful digital products — all from the shadows.
+I’m a developer who believes clean code and good design should go hand-in-hand. I specialize in building scalable applications, automating workflows, and turning business ideas into powerful digital products.
 
 - 💻 JavaScript | React | Node.js | MongoDB | SQL | Figma
 - ✨ Currently building: [Farmers Hub](#) — Farm product price tracker & support platform
