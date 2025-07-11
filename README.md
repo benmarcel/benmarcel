@@ -1,4 +1,7 @@
 # 🦇 Chima Ben — The Dev Knight
+<p align="center">
+  <img src="https://chat.openai.com/share/static/dev_knight_banner.png" alt="The Dev Knight Banner" width="100%" />
+</p>
 
 > Full-stack developer crafting elegant, performant web solutions,
 > With the precision of a coder and the discipline of a vigilante.
