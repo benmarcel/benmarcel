@@ -8,7 +8,6 @@
 I’m a developer and designer who believes clean code and good design should go hand in hand. I specialize in building scalable applications, automating workflows, and transforming business ideas into powerful digital products.  
 
 - 💻 Proficient in: JavaScript, React, Node.js, MongoDB, SQL, MySQL, Figma  
-- ✨ Currently building: [Farmers Hub](https://github.com/benmarcel/Farmers-Hub.git) — farm product price tracker & support platform  
 - 🎯 Learning: UI/UX design with Figma  
 
 ---
@@ -27,6 +26,7 @@ I’m a developer and designer who believes clean code and good design should go
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
