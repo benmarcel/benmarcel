@@ -48,7 +48,6 @@ Storage booking and logistics platform for farmers.
 
 ### 📫 **Let’s Connect**  
 
-- 🌐 Portfolio: [Link Here]  
 - 💼 [LinkedIn](https://www.linkedin.com/in/chima-ben?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 📱 [WhatsApp](https://wa.me/2348023678500)  
 - 🐦 [X (Twitter)](https://x.com/chima_ben_dev)  
