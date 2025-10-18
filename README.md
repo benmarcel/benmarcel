@@ -44,11 +44,11 @@ Storage booking and logistics platform for farmers.
 24/7 telemedicine platform for African communities (Practice project).  
 *HTML · CSS · Node.js · Express.js · MySQL*  
 
- **[Greener Ai](https://greener-ai.netlify.app/)**  
+🔹 **[Greener Ai](https://greener-ai.netlify.app/)**  
  Your AI-powered companion for sustainable living, gardening, and making a real environmental impact.
  *React · tailwind css · Node.js · Express.js · typeScript · Mongo db*
 
-  **[Farmpal](https://farmpal-3mtt.vercel.app/)**  
+ 🔹 **[Farmpal](https://farmpal-3mtt.vercel.app/)**  
  Your smart assistant for agriculture. Connect with experts, manage your farm, and get real-time support.
  *React · tailwind css · Node.js · Express.js · Mongo db*
 
