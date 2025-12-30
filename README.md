@@ -1,18 +1,20 @@
-# **Chima Ben**  
+  ## Hi there, I'm Chima! 👋 
 
-> Full-stack developer with a focus on building elegant, performant, and scalable web solutions. Passionate about combining clean code and thoughtful design to deliver impactful digital products.  
+**Software Engineer | FullStack Web development | UX Designer**
+
+I am a developer who bridges the gap between structured business logic and intuitive user experiences. With a background in **Scientific Management**, I bring analytical rigor to every line of code, ensuring that applications aren't just functional, but optimized for real-world operations.
+
+- 🛠️ **Currently working with:** React, TypeScript, Node.js, and MongoDB.
+- 🎨 **Design Philosophy:** Clean code + Pixel-perfect UI (Figma).
+- 🚀 **Learning:** Frontend Architecture & Test-Driven Development (TDD).
+- 📈 **Goal:** Building high-impact digital products.
+
+
+
 
 ---
 
-### 💼 **About Me**  
-I’m a developer and designer who believes clean code and good design should go hand in hand. I specialize in building scalable applications, automating workflows, and transforming business ideas into powerful digital products.  
-
-- 💻 Proficient in: JavaScript, React, Node.js, MongoDB, SQL, MySQL
-- 🎯 Learning: UI/UX design with Figma  
-
----
-
-### ⚙️ **Tech Stack**  
+### 🧰 Tech Stack & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
