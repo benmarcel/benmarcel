@@ -6,7 +6,7 @@ I am a developer who bridges the gap between structured business logic and intui
 
 - 🛠️ **Currently working with:** React, TypeScript, Node.js, and MongoDB.
 - 🎨 **Design Philosophy:** Clean code + Pixel-perfect UI (Figma).
-- 🚀 **Learning:** Frontend Architecture & Test-Driven Development (TDD).
+- 🚀 **Learning:** Backend, AI integration & Test-Driven Development (TDD).
 - 📈 **Goal:** Building high-impact digital products.
 
 
@@ -38,9 +38,9 @@ I am a developer who bridges the gap between structured business logic and intui
 Movie recommendation app where users can search and explore titles (Capstone project).  
 *React · Node.js · Express.js · MongoDB · PWA*  
 
-🔹 **[Agro Flow](https://benmarcel.github.io/agro_flow_project/)**  
-Storage booking and logistics platform for farmers.  
-*HTML · Tailwind CSS · JavaScript*  
+🔹 **[Fish-the-fish](https://fish-the-phish.vercel.app/)**  
+Paste any suspicious message and get an instant AI breakdown of links, sender intent, and red flags  before you click.  
+*Next.js · Tailwind CSS · typeScript · Virustotal API · WHOIS*  
 
 🔹 **[Gozie Telemed](https://github.com/benmarcel/Plp-final_project.git)**  
 24/7 telemedicine platform for African communities (Practice project).  
@@ -58,6 +58,6 @@ Storage booking and logistics platform for farmers.
 
 ### 📫 **Let’s Connect**  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/chima-ben?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/chima-ben/)  
 - 📱 [WhatsApp](https://wa.me/2348023678500)  
 - 🐦 [X (Twitter)](https://x.com/chima_ben_dev)  
