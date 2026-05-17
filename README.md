@@ -4,7 +4,7 @@
 
 I am a developer who bridges the gap between structured business logic and intuitive user experiences. With a background in **Scientific Management**, I bring analytical rigor to every line of code, ensuring that applications aren't just functional, but optimized for real-world operations.
 
-- 🛠️ **Currently working with:** React, TypeScript, Node.js, and MongoDB.
+- 🛠️ **Currently working with:** React, Next.js, TypeScript, Node.js, and MongoDB.
 - 🎨 **Design Philosophy:** Clean code + Pixel-perfect UI (Figma).
 - 🚀 **Learning:** Backend, AI integration, Test-Driven Development (TDD) & cybersecurity for secured code architecture.
 - 📈 **Goal:** Building high-impact digital products.
