@@ -6,7 +6,7 @@ I am a developer who bridges the gap between structured business logic and intui
 
 - 🛠️ **Currently working with:** React, Next.js, TypeScript, Node.js, and MongoDB.
 - 🎨 **Design Philosophy:** Clean code + Pixel-perfect UI (Figma).
-- 🚀 **Learning:** Backend, AI integration, Test-Driven Development (TDD) & cybersecurity for secured code architecture.
+- 🚀 **Learning:** Backend, AI integration, Cloud Computing.
 - 📈 **Goal:** Building high-impact digital products.
 
 
