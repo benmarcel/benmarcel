@@ -29,6 +29,8 @@ I am a developer who bridges the gap between structured business logic and intui
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
@@ -53,6 +55,10 @@ Paste any suspicious message and get an instant AI breakdown of links, sender in
  🔹 **[Farmpal](https://farmpal-3mtt.vercel.app/)**  
  Your smart assistant for agriculture. Connect with experts, manage your farm, and get real-time support.
  *React · tailwind css · Node.js · Express.js · Mongo db*
+ 
+ 🔹 **[CoWatch](https://net-chill-nine.vercel.app/)**  
+Your real-time co-watching platform. Create rooms, sync YouTube videos, chat, and jump on voice calls with friends in real time.  
+*TypeScript · Vite · Tailwind CSS · Node.js · Express.js · Socket.IO · WebRTC*
 
 ---
 
